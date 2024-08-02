@@ -6,7 +6,6 @@
  */
 /**********************************************************
 * AUTHOR 		: Adam Mirski
-* STUDENT ID 	: 584507
 * LAB: # 12   	: Intro to OOP
 * CLASS 		: CS1B
 * SECTION 		: Mw: 7:30p - 10:00p
