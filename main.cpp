@@ -1,7 +1,7 @@
 
 /**********************************************************
 * AUTHOR 		: Adam Mirski
-* LAB: # 12   	: Intro to OOP
+* LAB: # 12   		: Intro to OOP
 * CLASS 		: CS1B
 * SECTION 		: Mw: 7:30p - 10:00p
 * DUE DATE 		: Apr 29, 2024
