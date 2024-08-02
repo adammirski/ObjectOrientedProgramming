@@ -1,0 +1,75 @@
+**************************************************
+* PROGRAMMED BY : Adam Mirski
+* CLASS         : CS1B
+* SECTION       : MW: 7:30p - 10:00p
+* LAB#12        : Intro to OOP
+**************************************************
+
+1 - Initialize Animals
+0 - Exit
+Enter selection: 1
+
+Initializing Fluffy, Maa, & Babe...
+
+1 - Initialize Animals
+2 - Change Age
+3 - Change Value
+4 - Display
+0 - Exit
+Enter selection: 4
+
+ANIMAL     NAME           AGE    VALUE
+---------- -------------- --- -----------
+Sheep      Fluffy          1     15000.00
+Sheep      Maa             3     16520.35
+Pig        Babe            2     10240.67
+
+1 - Initialize Animals
+2 - Change Age
+3 - Change Value
+4 - Display
+0 - Exit
+Enter selection: 2
+CHANGE AGE:
+1 - Fluffy
+2 - Maa
+3 - Babe
+Select the animal you'd like to change: 1
+NEW AGE: 7
+
+Changing Fluffy's age to 7 ...
+
+1 - Initialize Animals
+2 - Change Age
+3 - Change Value
+4 - Display
+0 - Exit
+Enter selection: 3
+CHANGE VALUE:
+1 - Fluffy
+2 - Maa
+3 - Babe
+Select the animal you'd like to change: 2
+NEW VALUE: 12375
+Changing Maa's value to 12375.00 ...
+
+1 - Initialize Animals
+2 - Change Age
+3 - Change Value
+4 - Display
+0 - Exit
+Enter selection: 4
+
+ANIMAL     NAME           AGE    VALUE
+---------- -------------- --- -----------
+Sheep      Fluffy          7     15000.00
+Sheep      Maa             3     12375.00
+Pig        Babe            2     10240.67
+
+1 - Initialize Animals
+2 - Change Age
+3 - Change Value
+4 - Display
+0 - Exit
+Enter selection: 0
+     
